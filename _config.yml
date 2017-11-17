@@ -12,7 +12,7 @@ url: "https://girltechfestmx.github.io"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: /girltechfestmx.github.io
+baseurl: ""
 
 # Google tracking id
 
@@ -30,9 +30,9 @@ force-https: False
 
 lang: "es"
 author: "GTFMX"
-title: "{ Girl Tech Fest Mexico}"
+title: "{Girl Tech Fest Mexico}"
 description: "Blog y website de Girl Tech Fest Mexico"
-keywords: "girl, tech, Fesd, mexico"
+keywords: "girl, tech, Fest, mexico"
 favicon: "/img/favicon.ico"
 
 ################

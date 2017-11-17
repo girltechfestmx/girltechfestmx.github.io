@@ -55,8 +55,8 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
+  - text: "Girl Tech Fest México"
   - text: "Todas las niñas mexicanas deberían tener la oportunidad de aprender ciencias de la computación"
-  - text: "Girl Tech Fest Mexico"
 
 me-img: "/img/jetpacktocat.png"
 

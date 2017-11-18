@@ -39,7 +39,7 @@ favicon: "/img/favicon.ico"
 # Header layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
+black-favicon: "/img/unicorn.ico"
 
 background-img: "../img/intro-bg.jpg"
 
@@ -193,10 +193,10 @@ keybase-in-footer: True
 # Sections shown in the index page
 
 pages_list:
-  About: 'nosotros'
-  Blog: 'ultimos-post'
+  About: 'about'
+  Blog: 'latest-post'
   Timeline: 'timeline'
-  Contact: 'contacto'
+  Contact: 'contact'
 
 # Exclusion list from the generated _site
 

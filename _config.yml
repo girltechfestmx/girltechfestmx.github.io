@@ -132,7 +132,7 @@ syntax-highlight: True
 
 events:
   - image: "/img/timeline/gtfmx18.png"
-    date: "Abril 2018 - Girl Tech Fest México 2018"
+    date: "Girl Tech Fest México 2018"
     description: "Primera edición de GTFMX"
   - image: "/img/timeline/birth.png"
     date: "Septiembre 2017 - Fundación"

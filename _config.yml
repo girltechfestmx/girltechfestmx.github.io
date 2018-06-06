@@ -30,9 +30,9 @@ force-https: False
 
 lang: "es"
 author: "GTFMX"
-title: "{Girl Tech Fest Mexico}"
-description: "Blog y website de Girl Tech Fest Mexico"
-keywords: "girl, tech, Fest, mexico"
+title: "{Girl Tech Fest México}"
+description: "Blog y website de Girl Tech Fest México"
+keywords: "girl, tech, Fest, México"
 favicon: "/img/favicon.ico"
 
 ################
@@ -107,7 +107,7 @@ icon-192p: "/img/web-app/icon-192p.png"
 
 enable-gesture-navigation: True
 
-post-preview-words: 96
+post-preview-words: 200
 
 paginate: 5
 
@@ -156,7 +156,7 @@ email: "girltechfestmx@gmail.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Girl Tech Fest Mexico es una comunidad mujeres profesionales en TI sin fines de lucro."
+author_blurb: "Girl Tech Fest México es una comunidad mujeres profesionales en TI sin fines de lucro."
 author_blurb_image: "/img/author.png"
 
 ##################

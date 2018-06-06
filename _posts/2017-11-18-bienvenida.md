@@ -1,1 +1,3 @@
-Estamos mejorando nuestro sitio, revisa constantemente los cambios para obtener mas informacion
+Girl Tech Fest México (GTFMX), es una comunidad sin fines de lucro que dirige y organiza GTFMX 2018.
+
+ Girl Tech Fest México 2018 es un evento por y para las niñas de México. Nuestro propósito es brindarles la oportunidad a nuestras niñas de descubrir y desarrollar las bases del conocimiento en el campo de ciencias de la computación.

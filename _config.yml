@@ -58,7 +58,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Girl Tech Fest México"
   - text: "Todas las niñas mexicanas deberían tener la oportunidad de aprender ciencias de la computación"
 
-me-img: "/img/jetpacktocat.png"
+me-img: ""
 
 # To use facebook profile pic comment the previous line and uncomment the following
 # line, and replace 'user_id' with your facebook user id.
@@ -157,7 +157,7 @@ email: "girltechfestmx@gmail.com"
 
 # if the author_blurb is not set, then this feature is skipped
 author_blurb: "Girl Tech Fest México es una comunidad mujeres profesionales en TI sin fines de lucro."
-author_blurb_image: "/img/author.png"
+author_blurb_image: ""
 
 ##################
 # Social Buttons #

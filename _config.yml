@@ -157,7 +157,7 @@ email: "girltechfestmx@gmail.com"
 
 # if the author_blurb is not set, then this feature is skipped
 author_blurb: "Girl Tech Fest México es una comunidad mujeres profesionales en TI sin fines de lucro."
-
+author_blurb_image: "/img/author.png"
 
 ##################
 # Social Buttons #

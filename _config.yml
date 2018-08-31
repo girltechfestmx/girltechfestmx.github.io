@@ -58,7 +58,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Girl Tech Fest México"
   - text: "Todas las niñas mexicanas deberían tener la oportunidad de aprender ciencias de la computación"
 
-me-img: ""
+me-img: "/img/jetpacktocat.png"
 
 # To use facebook profile pic comment the previous line and uncomment the following
 # line, and replace 'user_id' with your facebook user id.

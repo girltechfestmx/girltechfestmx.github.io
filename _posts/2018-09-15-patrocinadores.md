@@ -6,3 +6,6 @@ Nuestros Patrocinadores
 
 ![6 Delta](https://raw.githubusercontent.com/girltechfestmx/girltechfestmx.github.io/master/img/Logo-6D_2.jpeg)| | | | | | ![Telmex Hub](https://raw.githubusercontent.com/girltechfestmx/girltechfestmx.github.io/master/img/TelmexHub.png)
 
+
+
+
